@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate ab
 📌 *Performed customer segmentation using clustering techniques to improve marketing campaigns.*  
 - ✅ **Conducted a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory 
 distribution using various KPIs and visualizations.**.  
-- ✅ ** Improved sales forecasting accuracy by 20% and reduced reporting time by 15 hours/month.**  
+- ✅ **Improved sales forecasting accuracy by 20% and reduced reporting time by 15 hours/month.**  
 - 🚀 [View Project](#)  
 
 ---
