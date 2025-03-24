@@ -21,10 +21,11 @@ Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate ab
 - ✅ **Performed data cleaning & transformation** for accurate insights.  
 - 🚀 [View Project](#) | [SQL Queries](#) | [Dashboard](#)  
 
-### 📊 **Customer Segmentation for E-Commerce**  
+### 📊 **Blinkit Sales Analysis**  
 📌 *Performed customer segmentation using clustering techniques to improve marketing campaigns.*  
-- ✅ **Used SQL & Python (Pandas, Scikit-learn) for data analysis**.  
-- ✅ **Created a Power BI dashboard** for customer insights.  
+- ✅ **Conducted a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory 
+distribution using various KPIs and visualizations.**.  
+- ✅ ** Improved sales forecasting accuracy by 20% and reduced reporting time by 15 hours/month.  
 - 🚀 [View Project](#)  
 
 ---
