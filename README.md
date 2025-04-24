@@ -42,35 +42,43 @@
 #### 📌 Insurance Analytics Dashboard *(Power BI)*  
 - Interactive report to monitor policy-wise revenue & agent performance across regions  
 📸 ![Insurance Dashboard](link-to-insurance-dashboard.png)
+[Dataset](https://example.com/insurance-dataset)
+
 
 #### 📌 Bank Loan Analysis *(Power BI & Excel)*  
 - Loan approval trends, default risk segmentation, and payment behavior breakdown  
 📸 ![Bank Loan Dashboard](link-to-loan-dashboard.png)
+[Dataset](https://example.com/insurance-dataset)
 
 #### 📌 Blinkit Sales Analysis *(Excel)*  
 - Sales forecasting, customer satisfaction, and inventory distribution  
 - Improved forecasting accuracy by 20% and reduced reporting time  
 📸 ![Blinkit Dashboard](link-to-blinkit-dashboard.png)
+[Dataset](https://example.com/insurance-dataset)
 
 #### 📌 Tata Data Visualization Simulation *(Forage)*  
 - Completed simulation with TCS on visualizing business insights  
 - Prepared leadership questions and created actionable reports  
 📸 ![Tata Dashboard](link-to-tata-dashboard.png)
+[Dataset](https://example.com/insurance-dataset)
 
 #### 📌 Hospital Emergency Room Analysis *(Power BI)*  
 - Used DAX and SQL to monitor wait times and patient volume  
 - Reduced manual reporting by 40% and wait times by 30%  
 📸 ![Hospital Dashboard](link-to-hospital-dashboard.png)
+[Dataset](https://example.com/insurance-dataset)
 
 #### 📌 Mobile Sales Analysis *(Power BI)*  
 - Dashboard on sales, transactions, ratings, and YoY trends  
 - Increased sales by 20% with performance-focused insights  
 📸 ![Mobile Sales Dashboard](link-to-mobile-dashboard.png)
+[Dataset](https://example.com/insurance-dataset)
 
 #### 📌 Human Resource Analysis *(Tableau)*  
 - Built HR analytics dashboards using Tableau, SQL, and Excel  
 - Enabled predictive analysis and reduced reporting effort by 10+ hours/month  
 📸 ![HR Dashboard](link-to-hr-dashboard.png)
+[Dataset](https://example.com/insurance-dataset)
 
 ---
 
