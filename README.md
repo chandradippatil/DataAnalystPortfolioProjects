@@ -53,7 +53,7 @@
 #### 📌 Blinkit Sales Analysis *(Excel)*  
 - Sales forecasting, customer satisfaction, and inventory distribution  
 - Improved forecasting accuracy by 20% and reduced reporting time  
-📸 ![Blinkit Dashboard](link-to-blinkit-dashboard.png)
+📸 ![Blinkit Dashboard](Blinkit Dashboard.png)
 [Dataset](https://example.com/insurance-dataset)
 
 #### 📌 Tata Data Visualization Simulation *(Forage)*  
