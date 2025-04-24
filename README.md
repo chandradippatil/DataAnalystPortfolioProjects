@@ -55,7 +55,6 @@
 #### 📌 Tata Data Visualization Simulation *(Forage)*  
 - Completed simulation with TCS on visualizing business insights  
 - Prepared leadership questions and created actionable reports  
- 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
 
 #### 📌 Hospital Emergency Room Analysis *(Power BI)*  
 - Used DAX and SQL to monitor wait times and patient volume  
