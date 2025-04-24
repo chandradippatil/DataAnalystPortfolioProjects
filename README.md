@@ -53,7 +53,7 @@
 - Sales forecasting, customer satisfaction, and inventory distribution  
 - Improved forecasting accuracy by 20% and reduced reporting time  
 📸 ![Blinkit Dashboard](Blinkit Dashboard.png)
-[Dataset](https://example.com/insurance-dataset)
+[Dataset](Dataset)
 
 #### 📌 Tata Data Visualization Simulation *(Forage)*  
 - Completed simulation with TCS on visualizing business insights  
