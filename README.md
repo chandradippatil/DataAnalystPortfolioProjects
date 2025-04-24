@@ -43,7 +43,6 @@
 - Interactive report to monitor policy-wise revenue & agent performance across regions  
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
 
-
 #### 📌 Bank Loan Analysis *(Power BI & Excel)*  
 - Loan approval trends, default risk segmentation, and payment behavior breakdown  
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Bank_Analysis)
@@ -51,7 +50,7 @@
 #### 📌 Blinkit Sales Analysis *(Excel)*  
 - Sales forecasting, customer satisfaction, and inventory distribution  
 - Improved forecasting accuracy by 20% and reduced reporting time  
- 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
+ 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Blinkit_Sales_Analysis)
 
 #### 📌 Tata Data Visualization Simulation *(Forage)*  
 - Completed simulation with TCS on visualizing business insights  
@@ -61,17 +60,17 @@
 #### 📌 Hospital Emergency Room Analysis *(Power BI)*  
 - Used DAX and SQL to monitor wait times and patient volume  
 - Reduced manual reporting by 40% and wait times by 30%  
- 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
+ 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Hospital-Emergency-Room-Analysis)
 
 #### 📌 Mobile Sales Analysis *(Power BI)*  
 - Dashboard on sales, transactions, ratings, and YoY trends  
 - Increased sales by 20% with performance-focused insights  
- 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
+ 🔗 [Click here to view the dataset]( https://github.com/chandradippatil/Mobile-Sales-Analysis-)
 
 #### 📌 Human Resource Analysis *(Tableau)*  
 - Built HR analytics dashboards using Tableau, SQL, and Excel  
 - Enabled predictive analysis and reduced reporting effort by 10+ hours/month  
- 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
+ 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Human-Resource-Analysis)
 
 ---
 
