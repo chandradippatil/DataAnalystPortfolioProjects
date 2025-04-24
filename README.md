@@ -1,48 +1,73 @@
 <h1 align="center">👋 Hi, I'm Chandradip Patil</h1>
-<h3 align="center">🚀 Data Analyst | SQL | Power BI | Tableau | Python | Excel</h3>
-
-Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate about extracting insights from data and building impactful dashboards.  
-
----
-## 🔹 About Me  
-- 📊 **Data Analyst** with hands-on experience in **SQL, Power BI, Tableau, Excel, and Python**.  
-- 🏢 Completed an **internship at AI Variant**, working on **Insurance Analysis** using **SQL & Power BI**.  
-- 🔍 Passionate about **data visualization, KPI tracking, and business intelligence**.  
-- 📚 Constantly learning **advanced SQL, DAX, and Python for data analysis**.  
+<h3 align="center">💼 Data Analyst | SQL | Power BI | Python | Tableau | Excel</h3>
 
 ---
 
-## 📌 Featured Projects  
+### 📌 About Me
 
-### 📊 **Insurance Analytics (SQL + Power BI)**  
-📌 *Analyzed insurance sales data to track Cross Sell, New Business, and Renewal KPIs.*  
-- ✅ **Designed SQL queries** for KPI tracking.  
-- ✅ **Developed Power BI dashboards** with **DAX measures** for dynamic reporting.  
-- ✅ **Performed data cleaning & transformation** for accurate insights.  
-- 🚀 [View Project](#) | [SQL Queries](#) | [Dashboard](#)  
+🎓 Data Analyst with 1+ year of hands-on experience in:
+- SQL, Power BI, Tableau, Excel, and Python
+- KPI Analysis, Dashboarding, Data Cleaning, and Business Intelligence
 
-### 📊 **Blinkit Sales Analysis**  
-📌 *Performed customer segmentation using clustering techniques to improve marketing campaigns.*  
-- ✅ **Conducted a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory 
-distribution using various KPIs and visualizations.**.  
-- ✅ **Improved sales forecasting accuracy by 20% and reduced reporting time by 15 hours/month.**  
-- 🚀 [View Project](#)  
+🚀 Passionate about using data to drive impactful business decisions and simplify complexity through insights.
 
 ---
 
-## 🛠️ Technical Skills  
-✅ **SQL** (Joins, Window Functions, CTEs, Optimization)  
-✅ **Power BI & Tableau** (Dashboards, DAX, Data Visualization)  
-✅ **Excel** (Pivot Tables, VLOOKUP, Advanced Formulas)  
-✅ **Python** (Pandas, NumPy for Data Analysis)  
+### 💼 Work Experience
+
+**Data Analyst Intern – AI Variant, Pune**  
+📅 *March 2024 – March 2025*  
+
+**Project 1: Insurance Analytics**
+- Built Power BI dashboards to track KPIs like cross-sell, new business & renewals  
+- Reduced data retrieval time by 50% and improved collection rates by 25%  
+
+**Project 2: Bank Loan Analysis**
+- Analyzed 48K+ customer records to uncover default patterns  
+- Enhanced risk profiling efficiency by 30% using Power BI dashboards  
 
 ---
 
-## 📫 Let's Connect!  
-📩 **Email:** [YourEmail@example.com]  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-🌎 **Portfolio:** [yourportfolio.com](#)  
+### 🧠 Skills & Tools
+
+- **Languages & Tools:** SQL, Python (pandas, NumPy), DAX, Power BI, Tableau, Excel (VLOOKUP, PivotTables), Power Query  
+- **Soft Skills:** Data Storytelling, Problem Solving, Team Collaboration, Stakeholder Communication  
+- **Database:** MySQL  
+- **Version Control:** Git, GitHub  
 
 ---
 
-**📌 Feel free to explore my repositories and reach out for collaborations! 🚀**  
+### 📊 Featured Projects
+
+#### 📌 Insurance Analytics Dashboard *(Power BI)*
+Interactive report to monitor policy-wise revenue & agent performance across regions  
+📸 ![Insurance Dashboard](link-to-dashboard-screenshot.png)
+
+#### 📌 Bank Loan Analysis *(Power BI & Excel)*  
+Loan approval trends, default risk segmentation, and payment behavior breakdown  
+📸 ![Bank Loan Dashboard](link-to-loan-dashboard-screenshot.png)
+
+#### 📌 Blinkit Sales Analysis *(Excel)*  
+Sales forecasting, inventory heatmap, and customer sentiment analysis  
+📸 ![Blinkit Analysis](link-to-blinkit-screenshot.png)
+
+---
+
+### 🧾 Certifications
+
+- ✅ Data Analyst – ExcelR  
+- ✅ Advanced SQL – HackerRank  
+- ✅ Tata Data Visualization – Forage  
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: [patilchandradip1300@gmail.com](mailto:patilchandradip1300@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chandradippatil)  
+- 🌐 [Portfolio Website (Coming Soon)](#)  
+- 🧠 [GitHub Projects](https://github.com/chandradippatil)
+
+---
+
+🔍 *Always open to freelance work, data gigs, and collaborative data projects!*
