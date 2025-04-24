@@ -46,7 +46,7 @@
 
 #### 📌 Bank Loan Analysis *(Power BI & Excel)*  
 - Loan approval trends, default risk segmentation, and payment behavior breakdown  
- 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Bank_Analysis-Project/)
+ 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Bank_Analysis)
 
 #### 📌 Blinkit Sales Analysis *(Excel)*  
 - Sales forecasting, customer satisfaction, and inventory distribution  
