@@ -41,7 +41,7 @@
 
 #### 📌 Insurance Analytics Dashboard *(Power BI)*  
 - Interactive report to monitor policy-wise revenue & agent performance across regions  
-📸 ![Insurance Dashboard](link-to-insurance-dashboard.png)
+📸 ![Insurance Dashboard]([link-to-insurance-dashboard.png](https://github.com/chandradippatil/Insurance-analysis-Project.git))
 [Dataset](Dataset)
 
 
