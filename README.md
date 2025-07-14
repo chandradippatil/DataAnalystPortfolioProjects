@@ -40,7 +40,9 @@
 ### 📊 Featured Projects
 
 #### 📌 Insurance Analytics Dashboard *(Power BI)*  
-- Interactive report to monitor policy-wise revenue & agent performance across regions  
+- Interactive report to monitor policy-wise revenue & agent performance across regions
+-  
+-  ![Dashboard Screenshot]([images/dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Blinkit_Dashboard.png))
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
 
 #### 📌 Bank Loan Analysis *(Power BI & Excel)*  
